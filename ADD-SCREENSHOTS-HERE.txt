@@ -1,0 +1,1 @@
+Add project screenshots to this folder, then reference them in README.md using: ![Description](assets/projects/filename.png)
